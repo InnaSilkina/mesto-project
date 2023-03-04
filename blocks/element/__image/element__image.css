@@ -2,6 +2,5 @@
     background-color: #000;
     width: 282px;
     height: 282px;
-    border-left: 10px;
-    border-right: 10px;
+    object-fit: cover;
 }

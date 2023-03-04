@@ -11,7 +11,7 @@
   @media screen and (max-width: 767px) {
     .profile__info {
       margin-top: 26px;
-      margin-left: 30px;
+      margin-left: 32px;
       gap: 10px 15px;
     }
   }
