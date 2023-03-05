@@ -1,5 +1,4 @@
 .popup__form {
-  
   margin: auto;
   margin-bottom: 0;
   display: flex;
@@ -11,7 +10,6 @@
 @media screen and (max-width: 600px) {
   .popup__form {
       width: 238px;
-      padding-top: 50px;
-      height: 275px;
+      padding-top: 75px;
   }
 }
