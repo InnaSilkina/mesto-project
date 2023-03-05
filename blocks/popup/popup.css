@@ -1,6 +1,14 @@
 .popup {
+    display: flex;
     position: fixed;
     top: 25%;
-    left: 35%;
-    display: flex;
+    bottom: 25%;
+    left: 0;
+    right: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .popup {
+        top: 19%;
+    }
 }
