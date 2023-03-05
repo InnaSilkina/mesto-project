@@ -1,0 +1,13 @@
+.profile__avatar-item {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 120px;
+  height: 120px;
+}
+
+
+@media screen and (max-width: 767px) {
+  .profile__avatar-item {
+    margin-right: 0;
+  }
+}

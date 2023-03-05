@@ -1,15 +1,15 @@
 .popup__form-input {
-   width: 100%;
-   padding-bottom: 8px;
-   line-height: 17px;
-   border: none;
-   border-bottom: 1px solid rgba(0, 0, 0, .2);
-   outline: none;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 16.94px;
-  }
- 
+
+  padding-bottom: 8px;
+  line-height: 17px;
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, .2);
+  outline: none;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 16.94px;
+ }
+
 .popup__form-input:last-of-type {
-    margin-top: 30px;
+   margin-top: 30px;
 }

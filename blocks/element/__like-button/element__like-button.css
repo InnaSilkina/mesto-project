@@ -6,6 +6,7 @@
   background-image: url(../../../image/like-button.svg);
   background-color: #fff;
   border: none;
+  cursor: pointer;
 }
 
 

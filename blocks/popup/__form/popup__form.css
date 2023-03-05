@@ -6,10 +6,10 @@
   justify-content: center;
 }
 
-
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
   .popup__form {
       width: 238px;
+      width: 100;
       padding-top: 75px;
   }
 }
